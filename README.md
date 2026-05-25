@@ -2,8 +2,8 @@
 - 學號：25101118
 - 姓名：團氏秋紅
 - 班級：資管大一
-- 作品網址：s25101118-pixel/portfolio 
-- GitHub Repo：https://github.com/s25101118/portfolio
+- 作品網址：https://s25101118-pixel.github.io/portfolio 
+- GitHub Repo：https://github.com/s25101118-pixel/portfolio
 
 ## 📌 專題說明
 （簡述你的作品集網站主題與特色）
